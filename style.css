@@ -212,7 +212,7 @@ main{
      text-decoration: none;
      margin-left: 10px;
      font-size: 18px;
-     width: 28.33%; 
+     width: 25.33%; 
      text-align: center; /* If you want the text to be centered */
     }
    
@@ -225,7 +225,7 @@ main{
        display: none;
        position: absolute;
        background-color: #000000;
-       box-sizing: 30px 40px;
+       box-sizing: 20px 20px;
        box-shadow: 0px 3px 5px 5px rgba(248, 242, 242, 0.2);
        z-index: 1;
        }
@@ -253,9 +253,11 @@ main{
         }
 
       main{
-       background-color: black;
+       background-color: rgb(242, 176, 176);
        border-style:solid;
-       margin: 50px;;
+       border-color: rgb(176, 199, 238);
+       border-width: 2px 2px 2px 2px;
+       margin: 10px;;
        margin-top: 10px;
        margin-bottom: 0px;
        text-decoration: none;
@@ -264,7 +266,7 @@ main{
       .next{
        text-align: right;
        margin-bottom: 70px;
-       margin-top: 550px;
+       margin-top: 650px;
        margin-right: 100px;
       }
   
