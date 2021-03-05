@@ -153,7 +153,7 @@ main{
        background-color: #000000;
        min-width: 100px;
        box-sizing: 30px 40px;
-       box-shadow: 0px 3px 5px 5px rgba(255, 255, 255, 0.2);
+      
        z-index: 1;
        }
       
@@ -181,7 +181,6 @@ main{
          }
          
    .next a{
-     border: 10px solid #ffffff;
      color: #ffffff;
      margin-left: 480px;
      font-size: 20px;
@@ -253,13 +252,9 @@ main{
         }
 
       main{
-       background-color: rgb(242, 176, 176);
-       border-style:solid;
-       border-color: rgb(176, 199, 238);
-       border-width: 2px 2px 2px 2px;
-       margin: 10px;;
-       margin-top: 10px;
-       margin-bottom: 0px;
+       margin: 300px;;
+       margin-top: 100px;
+       margin-bottom: 100px;
        text-decoration: none;
           }
 
@@ -271,7 +266,6 @@ main{
       }
   
       .next a{
-       border: 10px solid #ffffff;
        color: #ffffff;
        margin-left: 20px;
        font-size: 20px;
